@@ -1,7 +1,30 @@
 html, body {
   margin: 0;
   padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 canvas {
   display: block;
+}
+
+p{
+  background: lightgrey;
+  color: green;
+}
+
+#sketch1{
+  
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  
+}
+
+#sketch2{
+  
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  
 }
